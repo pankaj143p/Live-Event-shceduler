@@ -31,7 +31,7 @@ export function Testimonial() {
             </p>
           </div>
           <footer className="mt-6">
-            <div className="font-semibold ">Jan Marshal</div>
+            <div className="font-semibold ">Pankaj Prajapati</div>
             <div className="text-sm text-muted-foreground">
               Programmer | YouTuber
             </div>

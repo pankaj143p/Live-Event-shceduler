@@ -52,7 +52,7 @@ const OnboardingPage = () => {
                 name={fields.fullName.name}
                 defaultValue={fields.fullName.initialValue}
                 key={fields.fullName.key}
-                placeholder="Jan marshal"
+                placeholder="Pankaj Prajapati"
               />
               <p className="text-red-500 text-sm">{fields.fullName.errors}</p>
             </div>
